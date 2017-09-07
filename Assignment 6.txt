@@ -1,0 +1,6 @@
+Liang 28.2 (Implement DFS using a stack) The depth-first search algorithm described in Listing
+28.8 uses recursion.  Design a new algorithm without using recursion. Describe it in pseudocode. Implement it defining a new class named UnweightedGraphWithNonrecursiveDFS that extends UnweightedGraph and overriding the dfs method.
+
+1. Your pseudocode should be in your Java file
+2. Submit your Java file here
+3. You will get the same DFS results as Liang only if you put neighbors into the stack in reverse order from what is returned from neighbors. 
